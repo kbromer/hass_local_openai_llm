@@ -1,4 +1,4 @@
-# Local OpenAI LLM <small>_(Custom Integration for Home Assistant)_</small>
+# Diogenes FORK - Local OpenAI LLM <small>_(Custom Integration for Home Assistant)_</small>
 
 **Allows use of generic OpenAI-compatible LLM services, such as (but not limited to):**
 - llama.cpp
